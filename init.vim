@@ -1,0 +1,10 @@
+source $HOME/.config/nvim/vim-plug/plugins.vim
+source $HOME/.config/nvim/config/myconfig.vim
+source $HOME/.config/nvim/config/lualine-config.vim
+source $HOME/.config/nvim/config/colorizer-config.vim
+source $HOME/.config/nvim/config/emmet-config.vim
+source $HOME/.config/nvim/config/coc-config.vim
+source $HOME/.config/nvim/config/indentline-config.vim
+source $HOME/.config/nvim/config/vcoolor-config.vim
+source $HOME/.config/nvim/config/prettier-config.vim
+source $HOME/.config/nvim/config/bufferclose-config.vim
