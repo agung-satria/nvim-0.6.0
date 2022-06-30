@@ -2,10 +2,6 @@
 
 <!-- ## Screen*Shot* -->
 
-## Scr
-
-![](config/nvim.png)
-
 ## Requirements
 
 Requires [Node.js](https://nodejs.org/) v17+ to run.
